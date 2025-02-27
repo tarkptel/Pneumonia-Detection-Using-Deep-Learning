@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-  <h1>Pneumonia Detection 🩻 </h1>
+  <h1> 🦠 Pneumonia Detection 🩻 </h1>
 
   <div class="section">
         <h2>1. About Website</h2>
