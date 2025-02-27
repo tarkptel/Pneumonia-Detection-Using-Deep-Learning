@@ -2,11 +2,11 @@
 <html lang="en">
 <body>
 
-  <h1>Pneumonia Detection</h1>
+  <h1>Pneumonia Detection 🩻 </h1>
 
   <div class="section">
         <h2>1. About Website</h2>
-        <p><strong> Live Demo 🚀 : </strong><a href="https://huggingface.co/spaces/tensorboy0101/pneumonia_detection" target="_blank">Click Here</a></p>
+        <p><strong> Live Demo 🚀 : </strong><a href="https://huggingface.co/spaces/tensorboy0101/pneumonia_detection" target="_blank"><strong>Click Here </strong></a></p>
         <p>This website allows users to upload an X-ray image of a chest, The model will classify whether the patient is infected with Pneumonia or is Normal. along with confidence.</p>
         <h3>Screenshots:</h3>
         <img src="Images/PD1.png" alt="Web App Screenshot 1" width="600">
@@ -36,7 +36,7 @@
   <div class="section">
         <h2>4. Deployment</h2>
         <p>The model has been deployed on Hugging Face Spaces for easy accessibility and real-time predictions.</p>
-        <p>Live Demo 🎯 : <a href="https://huggingface.co/spaces/tensorboy0101/pneumonia_detection" target="_blank">Click Here</a></p>
+        <p>Live Demo 🎯 : <a href="https://huggingface.co/spaces/tensorboy0101/pneumonia_detection" target="_blank"><strong>Click Here</a> </strong></p>
     </div>
     
 <br>
